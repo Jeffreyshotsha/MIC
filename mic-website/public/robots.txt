@@ -1,0 +1,8 @@
+# Mouvement Imposons le Changement (MIC)
+User-agent: *
+Allow: /
+
+# Espace réservé aux membres (contenu privé)
+Disallow: /espace-membre
+
+Sitemap: https://mic-rdc.org/sitemap.xml

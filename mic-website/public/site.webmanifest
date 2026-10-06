@@ -1,0 +1,28 @@
+{
+  "name": "Mouvement Imposons le Changement (MIC)",
+  "short_name": "MIC",
+  "description": "Mouvement citoyen et social, non partisan, fondé en RDC le 26 septembre 2023. Changeons ensemble.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf8f5",
+  "theme_color": "#071a33",
+  "categories": ["education", "government", "social"],
+  "icons": [
+    {
+      "src": "/images/favicon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/logo.jpeg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
